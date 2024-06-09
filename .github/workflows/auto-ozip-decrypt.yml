@@ -14,9 +14,9 @@ on:
     types: [started]
 
 env:
-  FIRMWARE_LINK: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
-  FIRMWARE_NAME: RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
-  FIRMWARE_ZIP_NAME: RMX1851EX_11_OTA_1100_all_afysQxXkAd0p
+  FIRMWARE_LINK: https://bashupload.com/CRlEk/9P1FX.zip
+  FIRMWARE_NAME: A37m_11_A.26_180509.ofp
+  FIRMWARE_ZIP_NAME: fw_A37M_V.A.26.zip
   TZ: Asia/Kolkata
 
 jobs:
